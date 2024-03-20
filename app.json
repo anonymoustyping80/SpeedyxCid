@@ -6,7 +6,7 @@
     "Sangmetainfo_bot",
     "Sangmata Bot"
   ],
-  "repository": "https://github.com/cqcore/Telegram-OSINT",
+  "repository": "https://github.com/anonymoustyping80/SpeedyxCid",
   "env": {
     "HEROKU_APP_NAME": {
       "description": "give your heroku name",
